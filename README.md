@@ -1,8 +1,3 @@
-💯 **Bilkul bhai! — Yeh raha tera `README.md` in perfect copy-paste format:**
-
----
-
-```markdown
 # 🍔 Zippybites
 
 **Zippybites** is an AI-powered food delivery web app built with the MERN stack (MongoDB, Express, React, Node.js).  
