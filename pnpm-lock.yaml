@@ -10,12 +10,18 @@ importers:
 
   apps/admin_panel:
     dependencies:
+      '@tailwindcss/vite':
+        specifier: ^4.1.10
+        version: 4.1.10(vite@6.3.5(jiti@2.4.2)(lightningcss@1.30.1))
       react:
         specifier: ^19.1.0
         version: 19.1.0
       react-dom:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
+      tailwindcss:
+        specifier: ^4.1.10
+        version: 4.1.10
     devDependencies:
       '@eslint/js':
         specifier: ^9.25.0
@@ -47,12 +53,18 @@ importers:
 
   apps/rider_app:
     dependencies:
+      '@tailwindcss/vite':
+        specifier: ^4.1.10
+        version: 4.1.10(vite@6.3.5(jiti@2.4.2)(lightningcss@1.30.1))
       react:
         specifier: ^19.1.0
         version: 19.1.0
       react-dom:
         specifier: ^19.1.0
         version: 19.1.0(react@19.1.0)
+      tailwindcss:
+        specifier: ^4.1.10
+        version: 4.1.10
     devDependencies:
       '@eslint/js':
         specifier: ^9.25.0
