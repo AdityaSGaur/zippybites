@@ -8,4 +8,7 @@ export default defineConfig({
     tailwindcss(),
     react()
   ],
+  server: {
+    port: 5175, // port fixed for admin panel
+  },
 })
